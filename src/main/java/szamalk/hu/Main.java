@@ -7,5 +7,6 @@ public class Main {
         Tabla tabla = new Tabla("8", "#");
         tabla.megjelenit();
         tabla.elhelyez(5);
+        tabla.UresOszlop(5);
     }
 }
